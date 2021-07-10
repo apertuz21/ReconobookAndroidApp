@@ -32,7 +32,7 @@ https://github.com/apertuz21/Reconobook-web
 
 
 ## Licencia
-Distribuída bajo la licencia MIT. Vea `LICENSE` para más información.
+Distribuída bajo la licencia Apache 2.0. Vea `LICENSE` para más información.
 
 ## Instalación.
 Clone este repositorio e impórtelo a Android Studio
